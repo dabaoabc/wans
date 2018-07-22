@@ -78,7 +78,7 @@ aside i{
 }
 .info li{
 	float: left;
-	margin-right: 30px;
+	margin-right: 40px;
 	line-height: 26px;
 }
 .post{
@@ -87,7 +87,7 @@ aside i{
 	margin-top: 9px;
 	font-size: 18px;
 }
-.company{
+.company, .time{
 	// font-size: 14px;
 	color: #418ebb;
 	font-weight: 500;
